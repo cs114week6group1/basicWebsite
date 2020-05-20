@@ -13,10 +13,23 @@ h2
     font-family: "Arial";
 }
 
+h3
+{
+    color: red;
+    font-size: large;
+    font-family: "Arial";
+}
+
 body
 {
     background-color: lavender;
 
+}
+
+p
+{
+    color: black;
+    text-align: justify;
 }
 
 
