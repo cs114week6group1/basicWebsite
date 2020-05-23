@@ -1,0 +1,49 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 110px;
+    font-weight: bolder;
+    font-family: Gill Sans Extrabold, sans-serif;
+}
+
+h2 {
+    font-family: Ebrima;
+    font-size: 30px;
+    color: lightyellow;
+}
+
+p {
+    font-family: Garamond;
+    font-size: 18px;
+    color: white;
+}
+
+img1 {
+    display: block;
+    margin: 0 auto;
+}
+
+img {
+    width: 50%;
+
+}
+
+body {
+    background-color: lightblue;
+}
+
+.col-1 {
+    text-align: right;
+}
+
+.col-2 {
+    text-align: left;
+}
+
+[class*="col-"] {
+    padding: 5%;
+}
+
+.row::after {
+    content: "";
+}
