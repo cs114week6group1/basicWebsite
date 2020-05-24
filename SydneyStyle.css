@@ -1,9 +1,8 @@
 h1 {
-    color: white;
+    color: royalblue;
     text-align: center;
     font-size: 110px;
-    font-weight: bolder;
-    font-family: Gill Sans Extrabold, sans-serif;
+    font-family: Corbel;
 }
 
 h2 {
@@ -12,20 +11,21 @@ h2 {
     color: lightyellow;
 }
 
+h3 {
+    font-family: Ebrima;
+    font-size: 40px;
+    color: lightyellow;
+    text-align: center;
+}
+
 p {
     font-family: Garamond;
     font-size: 18px;
     color: white;
 }
 
-img1 {
-    display: block;
-    margin: 0 auto;
-}
-
 img {
     width: 50%;
-
 }
 
 body {
