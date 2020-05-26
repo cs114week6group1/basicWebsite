@@ -1,0 +1,49 @@
+h1 {
+    color: royalblue;
+    text-align: center;
+    font-size: 110px;
+    font-family: Corbel;
+}
+
+h2 {
+    font-family: Ebrima;
+    font-size: 30px;
+    color: lightyellow;
+}
+
+h3 {
+    font-family: Ebrima;
+    font-size: 40px;
+    color: lightyellow;
+    text-align: center;
+}
+
+p {
+    font-family: Garamond;
+    font-size: 18px;
+    color: white;
+}
+
+img {
+    width: 50%;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.col-1 {
+    text-align: right;
+}
+
+.col-2 {
+    text-align: left;
+}
+
+[class*="col-"] {
+    padding: 5%;
+}
+
+.row::after {
+    content: "";
+}
