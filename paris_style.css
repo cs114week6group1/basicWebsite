@@ -39,8 +39,20 @@ body {
     color: white;
 }
 
-a {
-    color: greenyellow;
+a
+{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    border: 0.5vw solid white;
+    padding: 2%;
+    background-color: black;
+    font-family: "Brush Script MT";
+}
+
+a:hover
+{
+    color: red;
 }
 
 h1 {
