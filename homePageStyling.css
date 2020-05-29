@@ -2,9 +2,9 @@ button
 {
     width: 200px;
     height: 100px;
-    font-family: "Brush Script MT";
-    color: red;
-    background-color: blue;
+    font-family: "Almendra SC", serif;
+    color: black;
+    background-color: white;
     font-size: xx-large;
 }
 
@@ -28,12 +28,12 @@ button
 
 a
 {
-    color: blue;
+    color: white;
     font-size: xx-large;
     text-align: center;
-    border: 0.5vw solid red;
+    border: 0.5vw solid white;
     padding: 2%;
-    background-color: aqua;
+    background-color: black;
     font-family: "Brush Script MT";
 }
 
@@ -44,36 +44,35 @@ a:hover
 
 h1
 {
-    color: red;
-    font-size: xx-large;
+    color: white;
+    font-size: 60px;
     text-align: center;
-    font-family: "Times New Roman";
 }
 
 h2
 {
-    color: blue;
+    color: white;
     font-size: x-large;
-    font-family: "Arial";
+    font-family: 'Cormorant', serif;
 }
 
 h3
 {
-    color: red;
+    color: white;
     font-size: large;
-    font-family: "Arial";
+    font-family: 'Cormorant', serif;
 }
 
 body
 {
-    background-color: lavender;
-
+    background-color: black;
 }
 
 p
 {
-    color: black;
+    color: white;
     text-align: justify;
+    font-family: 'Cormorant', serif;
 }
 
 
